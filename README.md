@@ -6,7 +6,7 @@ This project involves manual testing of the e-commerce website [https://skleptes
 ## Test Plan
 
 ### Description
-The objective of this project is to verify the functionality of the e-commerce website [https://skleptest.pl/](https://skleptest.pl/). The tests will focus on critical user functionalities such as registration, login, product browsing, and the purchasing process. The testing environment includes Ubuntu operating system with Google Chrome as the browser. The types of tests to be conducted include functional tests, usability tests, and regression tests. The criteria for test completion is 100% execution of all test cases.
+The objective of this project is to verify the functionality of the e-commerce website [https://skleptest.pl/](https://skleptest.pl/). The tests will focus on critical user functionalities such as registration, login, product browsing, and shopping cart functionalities. The testing environment includes Ubuntu operating system with Google Chrome as the browser. The types of tests to be conducted include functional tests. The criteria for test completion is 100% execution of all test cases.
 
 ### Scope of Testing
 
@@ -23,7 +23,6 @@ The objective of this project is to verify the functionality of the e-commerce w
 ### Types of Tests
 
 1. **Functional Tests**: To verify that each feature works according to the requirements.
-2. **Usability Tests**: To ensure the website is user-friendly and navigation is intuitive.
 
 ### Test Schedule
 
@@ -81,7 +80,7 @@ Based on the results of the testing, the following observations and recommendati
 - A total of 18 test cases were executed, with 10 passing, 6 failing, and 2 blocked.
 - Critical and major bugs were identified, particularly affecting the user registration, product browsing, and shopping cart functionalities.
 - It is recommended to address the high-priority and critical issues identified during testing before proceeding to production.
-- After fixes are implemented, a round of regression testing should be conducted to ensure no new issues have been introduced.
+- After fixes are implemented, a round of retesting should be conducted to ensure that the implemented fixes have resolved the issues.
 
 We recommend close collaboration between the testing and development teams to address the identified issues promptly and efficiently.
 
