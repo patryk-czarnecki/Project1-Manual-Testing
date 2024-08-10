@@ -11,7 +11,7 @@
   3. **Step**: Enter a valid password.
      - **Expected Result**: The password is entered correctly.
   4. **Step**: Click the "Login" button.
-     - **Expected Result**: The user is successfully logged in and redirected to the homepage.
+     - **Expected Result**: The user is successfully logged in and redirected to the my account.
 
 ## Test Case 2: User Login with Invalid Password
 - **Title**: User Login with Invalid Password
