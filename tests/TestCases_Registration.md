@@ -10,10 +10,8 @@
      - **Expected Result**: The email address is entered correctly.
   3. **Step**: Enter a valid password.
      - **Expected Result**: The password is entered correctly.
-  4. **Step**: Confirm the password.
-     - **Expected Result**: The confirmation password matches the entered password.
-  5. **Step**: Click the "Register" button.
-     - **Expected Result**: The user is successfully registered and redirected to the homepage with a confirmation message.
+  4. **Step**: Click the "Register" button.
+     - **Expected Result**: The user has been successfully registered and redirected to the my account page with a confirmation message.
 
 ## Test Case 2: User Registration without Email
 - **Title**: User Registration without Email
@@ -25,9 +23,7 @@
      - **Expected Result**: The email field is empty.
   3. **Step**: Enter a valid password.
      - **Expected Result**: The password is entered correctly.
-  4. **Step**: Confirm the password.
-     - **Expected Result**: The confirmation password matches the entered password.
-  5. **Step**: Click the "Register" button.
+  4. **Step**: Click the "Register" button.
      - **Expected Result**: The user receives an error message indicating that the email field is required.
 
 ## Test Case 3: User Registration without Password
@@ -52,8 +48,6 @@
   2. **Step**: Enter an email address that is already registered.
      - **Expected Result**: The email address is entered correctly.
   3. **Step**: Enter a valid password.
-     - **Expected Result**: The password is entered correctly.
-  4. **Step**: Confirm the password.
-     - **Expected Result**: The confirmation password matches the entered password.
+     - **Expected Result**: The password is entered correctly.  
   5. **Step**: Click the "Register" button.
      - **Expected Result**: The user receives an error message indicating that the email address is already in use.
