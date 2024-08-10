@@ -33,5 +33,5 @@
 - **Steps**:
   1. **Step**: Open the [products page](https://skleptest.pl/).
      - **Expected Result**: The products page is displayed with a list of products.
-  2. **Step**: Enter a search term in the search bar (e.g., "laptop").
+  2. **Step**: Enter a search term in the search bar (e.g., "Black Top").
      - **Expected Result**: The search results page displays products matching the search term.
